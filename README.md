@@ -15,3 +15,4 @@ Contient :
 - Heuristique d'échanges de deux sommets
 - Heuristique de (dé)croisement de deux arrêtes
 - Brute Force
+- Heuristique du Tabou (non fonctionnel)
