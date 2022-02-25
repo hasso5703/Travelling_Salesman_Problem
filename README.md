@@ -4,9 +4,8 @@ Traveling Salesman Problem resolution and optimisation with heuristics and algor
 
 exécution dans le terminal avec :
 
-gcc *.c -o prgm -O3 && ./prgm
-
-// ----------------------------------------------------------------------------------
+gcc *.c -o prgm -O3
+./prgm
 
 Contient :
 
