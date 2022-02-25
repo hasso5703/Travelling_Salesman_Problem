@@ -1,8 +1,17 @@
 # TSP
-Traveling Salesman Problem resolution &amp; optimisation
 
-methode d'exécution recommandé :
+Traveling Salesman Problem resolution and optimisation with heuristics and algorithms
+
+exécution dans le terminal avec :
 
 gcc *.c -o prgm -O3 && ./prgm
 
-utilisez le terminal pour compiler s'il y a des problèmes avec certains IDE
+// ----------------------------------------------------------------------------------
+
+Contient :
+
+- Heuristique aléatoire par permutation
+- Heuristique du plus proche voisin
+- Heuristique d'échanges de deux sommets
+- Heuristique de (dé)croisement de deux arrêtes
+- Brute Force
