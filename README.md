@@ -6,7 +6,7 @@ exécution dans le terminal avec :
 
 gcc *.c -o prgm -O3 && ./prgm
 
-Contient :
+Contient : 
 
 - Heuristique aléatoire par permutation
 - Heuristique du plus proche voisin
