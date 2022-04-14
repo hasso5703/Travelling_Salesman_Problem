@@ -1,6 +1,6 @@
 # TSP
 
-Traveling Salesman Problem resolution and optimisation with heuristics and algorithms
+TravelLing Salesman Problem resolution and optimisation with heuristics and algorithms
 
 exécution dans le terminal avec :
 
